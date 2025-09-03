@@ -1,0 +1,11 @@
+industry_sk,industry_code,industry_name
+1,A01,Agriculture
+2,M01,Manufacturing
+3,R01,Retail & Wholesale
+4,F01,Financial Services
+5,T01,Transport & Logistics
+6,I01,Information Technology
+7,C01,Construction
+8,H01,Healthcare
+9,E01,Education
+10,HSP,Hospitality & Tourism

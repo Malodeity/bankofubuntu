@@ -1,0 +1,7 @@
+product_sk,product_code,product_group,is_credit_flag
+1,MERCH,merchant,False
+2,FOREX,forex,False
+3,PAYRL,payroll,False
+4,SAVE,savings,False
+5,OD,overdraft,True
+6,TERM,term_loan,True

@@ -1,0 +1,9 @@
+campaign_sk,campaign_code,campaign_name,start_date,end_date
+1,CM001,Cross-sell Wave 1,2023-06-01,2023-06-29
+2,CM002,Cross-sell Wave 2,2023-03-01,2023-03-29
+3,CM003,Cross-sell Wave 3,2023-11-01,2023-11-29
+4,CM004,Cross-sell Wave 4,2025-08-01,2025-08-29
+5,CM005,Cross-sell Wave 5,2025-05-01,2025-05-29
+6,CM006,Cross-sell Wave 6,2023-05-01,2023-05-29
+7,CM007,Cross-sell Wave 7,2025-02-01,2025-02-28
+8,CM008,Cross-sell Wave 8,2023-04-01,2023-04-29
