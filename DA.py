@@ -23,7 +23,7 @@ from supabase import create_client
 # ------------------ CONFIG ------------------
 SUPABASE_URL = os.getenv("SUPABASE_URL", "https://bbkwerllrsqlezrzxqqf.supabase.co")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJia3dlcmxscnNxbGV6cnp4cXFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyODM2NzEsImV4cCI6MjA3MTg1OTY3MX0.-s6W-R_fg0JnE_-CUqtA8i6SSjSIlFaqbVb3k6R85Kg")
-LIMIT = int(os.getenv("SAMPLE_LIMIT", "1000"))  # sample rows for quick analysis
+LIMIT = int(os.getenv("SAMPLE_LIMIT", "1000000"))  # sample rows for quick analysis
 
 # ------------------ BASIC HELPERS ------------------
 def get_client():
